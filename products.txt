@@ -1,0 +1,4 @@
+producto1  300
+producto2  200
+producto3  300
+producto4  400

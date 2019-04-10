@@ -1,0 +1,1 @@
+file = File.open('index.html', 'w')
